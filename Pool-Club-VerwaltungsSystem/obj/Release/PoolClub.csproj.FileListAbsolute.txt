@@ -1,0 +1,11 @@
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\bin\Release\PoolClub.exe.config
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\bin\Release\PoolClub.exe
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\bin\Release\PoolClub.pdb
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Release\PoolClub.csproj.AssemblyReference.cache
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Release\PoolClub.ctrTableControl.resources
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Release\PoolClub.frmMain.resources
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Release\PoolClub.Properties.Resources.resources
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Release\PoolClub.csproj.GenerateResource.cache
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Release\PoolClub.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Release\PoolClub.exe
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Release\PoolClub.pdb

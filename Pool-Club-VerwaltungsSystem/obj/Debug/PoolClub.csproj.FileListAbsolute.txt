@@ -1,0 +1,22 @@
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\bin\Debug\PoolClub.exe.config
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\bin\Debug\PoolClub.exe
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\bin\Debug\PoolClub.pdb
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Debug\PoolClub.csproj.AssemblyReference.cache
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Debug\PoolClub.frmMain.resources
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Debug\PoolClub.Properties.Resources.resources
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Debug\PoolClub.csproj.GenerateResource.cache
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Debug\PoolClub.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Debug\PoolClub.exe
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Debug\PoolClub.pdb
+C:\Users\Wassim\work\C#\Muster C#\PoolClub\obj\Debug\PoolClub.ctrTableControl.resources
+C:\Users\Wassim\work\ToGitHub\C#\PoolClub\bin\Debug\PoolClub.exe.config
+C:\Users\Wassim\work\ToGitHub\C#\PoolClub\bin\Debug\PoolClub.exe
+C:\Users\Wassim\work\ToGitHub\C#\PoolClub\bin\Debug\PoolClub.pdb
+C:\Users\Wassim\work\ToGitHub\C#\PoolClub\obj\Debug\PoolClub.csproj.AssemblyReference.cache
+C:\Users\Wassim\work\ToGitHub\C#\PoolClub\obj\Debug\PoolClub.ctrTableControl.resources
+C:\Users\Wassim\work\ToGitHub\C#\PoolClub\obj\Debug\PoolClub.frmMain.resources
+C:\Users\Wassim\work\ToGitHub\C#\PoolClub\obj\Debug\PoolClub.Properties.Resources.resources
+C:\Users\Wassim\work\ToGitHub\C#\PoolClub\obj\Debug\PoolClub.csproj.GenerateResource.cache
+C:\Users\Wassim\work\ToGitHub\C#\PoolClub\obj\Debug\PoolClub.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\work\ToGitHub\C#\PoolClub\obj\Debug\PoolClub.exe
+C:\Users\Wassim\work\ToGitHub\C#\PoolClub\obj\Debug\PoolClub.pdb

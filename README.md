@@ -17,3 +17,6 @@ Delegationstrainingsprojekt
 - **Framework:** .NET Framework (C#) .
 - **User Interface:** Windows Forms (WinForms) .
 - **Bereitstellung:** Eigenständige Desktopanwendung .
+- 
+Sie können gerne zum Projekt beitragen,  oder Pull Requests senden. Bei Fragen kontaktieren Sie uns unter `wassimmadwar@gmail.com`
+ Euer Wassim :)
